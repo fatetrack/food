@@ -1,0 +1,57 @@
+﻿心思大开：日常生活的神经科学
+
+https://mengkang.net/949.html
+
+
+      菜谱
+id    int    11
+sort  char   255
+pid   int    11
+
+                           食材
+    食材分类                               营养分类
+id             int      11          id           int      11   
+nutrition_sort   char     255         Ingredients   char     255
+pid            int      11          pid          int      11
+
+
+
+              营养分类
+id             int      11
+nutrition_sort   char     255
+pid            int      11
+
+
+              珍选
+id             int      11
+treasure _sort   char     255
+pid            int      11
+
+
+             健康
+id             int      11
+health _sort   char     255
+pid            int      11
+
+
+   菜谱
+
+常见菜式 主食/小吃 甜品/饮品 适宜人群 食疗食补 场景 饮食方式 中式菜系 国外美食 烘焙 传统美食 节日食俗 操作难度 所需时间 工艺 口味
+
+
+       食材
+
+  食材分类                                                          营养
+
+时令热门 肉禽类 水产品类 蔬菜类 果品类 米面豆乳 调味品 药食    营养素  矿物质
+
+
+  珍选
+烘焙 果菜生鲜 粮油干货 饮品茶酒 进口食品 厨具厨电 母婴 美妆运动 休闲零食 服饰服包 家电百货 文化办公
+
+健康
+资讯 美食厨房 健康知识 食疗 养生与美容 
+
+
+
+
